@@ -1,0 +1,160 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "name": "Pasila",
+      "address": {
+        "street": "Veturitallinkuja 4",
+        "postalCode": "00520",
+        "city": "Helsinki"
+      },
+      "hours": [
+        {
+          "open": {"day": "monday", "time": "10:00"},
+          "close": {"day": "monday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "tuesday", "time": "10:00"},
+          "close": {"day": "tuesday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "wednesday", "time": "10:00"},
+          "close": {"day": "wednesday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "thursday", "time": "10:00"},
+          "close": {"day": "thursday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "friday", "time": "10:00"},
+          "close": {"day": "friday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "saturday", "time": "12:00"},
+          "close": {"day": "saturday", "time": "18:00"}
+        },
+        {
+          "open": {"day": "sunday", "time": "12:00"},
+          "close": {"day": "sunday", "time": "18:00"}
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Konala",
+      "address": {
+        "street": "Ruosilantie 1",
+        "postalCode": "00390",
+        "city": "Helsinki"
+      },
+      "hours": [
+        {
+          "open": {"day": "monday", "time": "10:00"},
+          "close": {"day": "monday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "tuesday", "time": "10:00"},
+          "close": {"day": "tuesday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "wednesday", "time": "10:00"},
+          "close": {"day": "wednesday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "thursday", "time": "10:00"},
+          "close": {"day": "thursday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "friday", "time": "10:00"},
+          "close": {"day": "friday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "saturday", "time": "12:00"},
+          "close": {"day": "saturday", "time": "18:00"}
+        },
+        {
+          "open": {"day": "sunday", "time": "12:00"},
+          "close": {"day": "sunday", "time": "18:00"}
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Herttoniemi",
+      "address": {
+        "street": "Mekaanikonkatu 15",
+        "postalCode": "00880",
+        "city": "Helsinki"
+      },
+      "hours": [
+        {
+          "open": {"day": "monday", "time": "10:00"},
+          "close": {"day": "monday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "tuesday", "time": "10:00"},
+          "close": {"day": "tuesday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "wednesday", "time": "10:00"},
+          "close": {"day": "wednesday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "thursday", "time": "10:00"},
+          "close": {"day": "thursday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "friday", "time": "10:00"},
+          "close": {"day": "friday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "saturday", "time": "12:00"},
+          "close": {"day": "saturday", "time": "18:00"}
+        },
+        {
+          "open": {"day": "sunday", "time": "12:00"},
+          "close": {"day": "sunday", "time": "18:00"}
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Espoo",
+      "address": {
+        "street": "Niittyrinne 2",
+        "postalCode": "02270",
+        "city": "Espoo"
+      },
+      "hours": [
+        {
+          "open": {"day": "monday", "time": "10:00"},
+          "close": {"day": "monday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "tuesday", "time": "10:00"},
+          "close": {"day": "tuesday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "wednesday", "time": "10:00"},
+          "close": {"day": "wednesday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "thursday", "time": "10:00"},
+          "close": {"day": "thursday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "friday", "time": "10:00"},
+          "close": {"day": "friday", "time": "21:00"}
+        },
+        {
+          "open": {"day": "saturday", "time": "10:00"},
+          "close": {"day": "saturday", "time": "18:00"}
+        },
+        {
+          "open": {"day": "sunday", "time": "10:00"},
+          "close": {"day": "sunday", "time": "18:00"}
+        }
+      ]
+    }
+  ]
+}
