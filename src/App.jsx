@@ -1,4 +1,3 @@
-import React from 'react';
 import {BrowserRouter, NavLink, Routes, Route} from 'react-router-dom';
 import LocationsPage from './components/Locations/LocationsPage';
 import PlanPage from './components/Plan/PlanPage';
