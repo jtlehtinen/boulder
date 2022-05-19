@@ -8,6 +8,10 @@
         "postalCode": "00520",
         "city": "Helsinki"
       },
+      "coords": {
+        "lat": "60.19575",
+        "lon": "24.93291"
+      },
       "hours": [
         {
           "open": {"day": "monday", "time": "10:00"},
@@ -46,6 +50,10 @@
         "street": "Ruosilantie 1",
         "postalCode": "00390",
         "city": "Helsinki"
+      },
+      "coords": {
+        "lat": "60.23687",
+        "lon": "24.85941"
       },
       "hours": [
         {
@@ -86,6 +94,10 @@
         "postalCode": "00880",
         "city": "Helsinki"
       },
+      "coords": {
+        "lat": "60.20392",
+        "lon": "25.04767"
+      },
       "hours": [
         {
           "open": {"day": "monday", "time": "10:00"},
@@ -124,6 +136,10 @@
         "street": "Niittyrinne 2",
         "postalCode": "02270",
         "city": "Espoo"
+      },
+      "coords": {
+        "lat": "60.16619",
+        "lon": "24.70257"
       },
       "hours": [
         {

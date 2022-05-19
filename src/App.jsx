@@ -11,7 +11,7 @@ function App() {
   return (
     <BrowserRouter>
       <Header/>
-      <Container>
+      <Container expand='sm'>
         <Routes>
           <Route path='/' element={<LocationsPage/>}/>
           <Route path='/plan' element={<PlanPage/>}/>

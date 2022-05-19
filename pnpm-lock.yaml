@@ -6,20 +6,24 @@ specifiers:
   '@types/react-dom': ^17.0.14
   '@vitejs/plugin-react': ^1.3.0
   bootstrap: ^5.1.3
+  leaflet: ^1.8.0
   react: ^18.0.0
   react-bootstrap: ^2.4.0
   react-dom: ^18.0.0
   react-icons: ^4.3.1
+  react-leaflet: ^4.0.0
   react-router-dom: ^6.3.0
   vite: ^2.9.1
 
 dependencies:
   '@popperjs/core': 2.11.5
   bootstrap: 5.1.3_@popperjs+core@2.11.5
+  leaflet: 1.8.0
   react: 18.1.0
   react-bootstrap: 2.4.0_fjh4ypl5eyqw2cfwhekzhnvvn4
   react-dom: 18.1.0_react@18.1.0
   react-icons: 4.3.1_react@18.1.0
+  react-leaflet: 4.0.0_7oc3rxsfz6gd4kfck6cfsvv34q
   react-router-dom: 6.3.0_ef5jwxihqo6n7gxfmzogljlgcm
 
 devDependencies:
@@ -349,6 +353,18 @@ packages:
     dependencies:
       '@babel/runtime': 7.17.9
       react: 18.1.0
+    dev: false
+
+  /@react-leaflet/core/2.0.0_7oc3rxsfz6gd4kfck6cfsvv34q:
+    resolution: {integrity: sha512-SQQ5DCQIaLzvslN6wCXs5OWqtlvk1Ubv2n5d7zTM8SDl9hM5Rr2wVy7/nOCIY958D75/ovhq6ZoSvT7GLCX6sg==}
+    peerDependencies:
+      leaflet: ^1.8.0
+      react: ^18.0.0
+      react-dom: ^18.0.0
+    dependencies:
+      leaflet: 1.8.0
+      react: 18.1.0
+      react-dom: 18.1.0_react@18.1.0
     dev: false
 
   /@restart/hooks/0.4.7_react@18.1.0:
@@ -812,6 +828,10 @@ packages:
     hasBin: true
     dev: true
 
+  /leaflet/1.8.0:
+    resolution: {integrity: sha512-gwhMjFCQiYs3x/Sf+d49f10ERXaEFCPr+nVTryhAW8DWbMGqJqt9G4XuIaHmFW08zYvhgdzqXGr8AlW8v8dQkA==}
+    dev: false
+
   /loose-envify/1.4.0:
     resolution: {integrity: sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==}
     hasBin: true
@@ -925,6 +945,19 @@ packages:
 
   /react-is/16.13.1:
     resolution: {integrity: sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==}
+    dev: false
+
+  /react-leaflet/4.0.0_7oc3rxsfz6gd4kfck6cfsvv34q:
+    resolution: {integrity: sha512-qJJvoCNe12XHSWVUwhXYmMObPoSYy8h/hn0aDNvcBuq3O8zmVI5S2RdabhaDg/iWMCJ2jbCWZWtIU5VtztO9sg==}
+    peerDependencies:
+      leaflet: ^1.8.0
+      react: ^18.0.0
+      react-dom: ^18.0.0
+    dependencies:
+      '@react-leaflet/core': 2.0.0_7oc3rxsfz6gd4kfck6cfsvv34q
+      leaflet: 1.8.0
+      react: 18.1.0
+      react-dom: 18.1.0_react@18.1.0
     dev: false
 
   /react-lifecycles-compat/3.0.4:
