@@ -1,6 +1,8 @@
+import Month from '../components/Month';
+
 function PlanPage() {
   return (
-    <p>Plan page...</p>
+    <Month/>
   );
 }
 
